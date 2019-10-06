@@ -1,0 +1,11 @@
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\bin\Debug\netcoreapp3.0\Ćwiczenia 1.exe
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\bin\Debug\netcoreapp3.0\Ćwiczenia 1.deps.json
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\bin\Debug\netcoreapp3.0\Ćwiczenia 1.runtimeconfig.json
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\bin\Debug\netcoreapp3.0\Ćwiczenia 1.runtimeconfig.dev.json
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\bin\Debug\netcoreapp3.0\Ćwiczenia 1.dll
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\bin\Debug\netcoreapp3.0\Ćwiczenia 1.pdb
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\obj\Debug\netcoreapp3.0\Ćwiczenia 1.csprojAssemblyReference.cache
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\obj\Debug\netcoreapp3.0\Ćwiczenia 1.AssemblyInfoInputs.cache
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\obj\Debug\netcoreapp3.0\Ćwiczenia 1.AssemblyInfo.cs
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\obj\Debug\netcoreapp3.0\Ćwiczenia 1.dll
+H:\studia\Vistula\Wstęp do Programowania\Semestr 1\Ćwiczenia 1\Program 1\obj\Debug\netcoreapp3.0\Ćwiczenia 1.pdb
