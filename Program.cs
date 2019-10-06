@@ -12,18 +12,18 @@ namespace sumaIloczyn
         {
             double suma = 0, iloczyn = 1;
             int n;
-            Console.Write("    Podaj ilość liczb: ");
+            Console.Write(" Podaj ilość liczb: ");
             n = int.Parse(Console.ReadLine());
             for (int i = 1; i <= n; i++)
             {
-                Console.Write($"\tPodaj liczbę {i}: ");
+                Console.Write($"  Podaj liczbę {i}: ");
                 double number = Convert.ToDouble(Console.ReadLine());
                 suma += number;
                 iloczyn *= number;
             }
 
-            Console.WriteLine($"\t  Suma tych liczb to: {suma}");
-            Console.WriteLine($"\t  Iloczyn tych licz to: {iloczyn}");
+            Console.WriteLine($"    Suma tych liczb to: {suma}");
+            Console.WriteLine($"    Iloczyn tych liczb to: {iloczyn}");
             Console.ReadKey();
         }
     }
